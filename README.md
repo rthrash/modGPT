@@ -1,8 +1,8 @@
 # modGPT
 A simple POC for auto-creation of SEO-friendly meta descriptions
 
-This is an example Plugin that adds a floating magic wand icon next to the “Summary (introtext)” field label. When clicked, it should:
-- grabs your resource’s rendered content, 
+This is an example Plugin that adds a magician’s wand emoji symbol next to the “Summary (introtext)” field label. When clicked, it should:
+- grabs your Resource’s rendered content, 
 - use the ChatGPT API to whip up an SEO-optimized meta description, and 
 - dumps the result into the introtext field. 
 
